@@ -1,3 +1,3 @@
 a = 10
-b = 5
-print(a+b)
+b = 8
+print(a-b)
